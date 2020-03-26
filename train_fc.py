@@ -10,7 +10,7 @@ import optimizer
 from dataset.mnist import load_mnist
 from models import simpleFC
 import matplotlib.pyplot as plt
-import copy
+
 
 
 def get_data(flag="train"):
